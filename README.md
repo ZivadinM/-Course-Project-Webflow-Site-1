@@ -36,4 +36,20 @@ This project is a result of a web development course utilizing Webflow, a powerf
 ### Installation
 
 1. Clone the repository to your local machine.
-Open this link: 
+Open this link: https://webflowp1.webflow.io/
+
+## Usage
+
+This project serves as a practical demonstration of the skills acquired during the Webflow course. Feel free to explore the site, and adapt the code for your own projects.
+Built With
+
+    Webflow - The web design and development platform.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions, improvements, or find any issues, please follow the [contribution guidelines](zivadin02@icloud.com).
+
+ ##Contact
+
+For any inquiries or feedback, please contact Zivadin at [zivadin02@icloud.com].
+
